@@ -21,10 +21,11 @@ To run this project, you will need to have Python 3.x installed along with the f
 - scikit-learn
 - PyTorch
 - NLTK
+- Spacy
 - Transformers (for ALBERT)
 - Matplotlib
 - Seaborn
 
 You can install the required packages using pip:
 ```bash
-pip install pandas numpy scikit-learn torch nltk transformers matplotlib seaborn
+pip install pandas numpy scikit-learn torch nltk spacy transformers matplotlib seaborn

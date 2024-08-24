@@ -1,4 +1,4 @@
-# Game Review Sentiment Analysis using Machine Learning and Deep Learning Models
+# Game Review Sentiment Analysis
 
 ## Project Overview
 This project focuses on sentiment analysis of game reviews, utilizing a range of machine learning and deep learning techniques. The sentiment analysis models categorize reviews into two sentiment classes: Positive, and Neutral. The project explores various models, from traditional machine learning algorithms to advanced neural networks like RNN, GRU, LSTM, and the ALBERT pretrained large language model, to assess their performance on this text classification task.

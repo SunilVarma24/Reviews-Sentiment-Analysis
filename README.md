@@ -27,4 +27,4 @@ To run this project, you will need to have Python 3.x installed along with the f
 
 You can install the required packages using pip:
 ```bash
-pip install pandas numpy scikit-learn tensorflow keras nltk transformers matplotlib seaborn
+pip install pandas numpy scikit-learn torch nltk transformers matplotlib seaborn
